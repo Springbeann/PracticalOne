@@ -1,0 +1,30 @@
+
+@	java:S106+"+Replace this use of System.out by a logger.(ÃÖ¤ƒ
+E	java:S1064"+Replace this use of System.out by a logger.(İÑ¯÷ÿÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106<"+Replace this use of System.out by a logger.(Ò¬©ìúÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E
+java:S1481H"/Remove this unused "totalScore" local variable.(¹ìº…
+9
+java:S2119^"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+i	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬µ¦Ãûÿÿÿÿ
+:
+java:S2119…"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+:
+java:S2119Š"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+T
+java:S1854’"=Remove this useless assignment to local variable "offspring".(ñ‹Ö
+Q
+java:S1854":Remove this useless assignment to local variable "rndmCh".(´ßÌ
+T
+java:S1854"8Remove this useless assignment to local variable "rand".(šŸ«íøÿÿÿÿ
+:
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+E
+java:S1481")Remove this unused "rand" local variable.(šŸ«íøÿÿÿÿ
+B
+java:S1481"+Remove this unused "rndmCh" local variable.(´ßÌ
+E
+java:S1481’".Remove this unused "offspring" local variable.(ñ‹Ö
