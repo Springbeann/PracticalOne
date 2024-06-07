@@ -61,6 +61,7 @@ public class PracticalGAs {
         } else {
             System.out.println("Generations taken: " + generations);
         }
+        //correction of target function and generation function with chatgpt
     }
 
     private static void initializeAlphabet() {

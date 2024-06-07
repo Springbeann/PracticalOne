@@ -1,20 +1,20 @@
 
 …
-java:S3518f"BMake sure "totalFitness" can't be zero before doing this division.(ğÖÔà8‹ƒ‘ÿ1J$4bacd9e8-f833-4e69-8a13-869a44284f79
+java:S3518g"BMake sure "totalFitness" can't be zero before doing this division.(ğÖÔà8‹ƒ‘ÿ1J$1422f957-8a34-4e43-a3b7-7743d2749f18
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ƒ‘ÿ1J$27baccf4-6916-43f0-b72f-e1780a81adeb
-m	java:S106&"+Replace this use of System.out by a logger.(ˆçˆ˜8–ƒ‘ÿ1J$0bb3665f-0f97-4066-9eba-56ab0c2c6a4e
-m	java:S106<"+Replace this use of System.out by a logger.(Ä¾Àï8—ƒ‘ÿ1J$df2ad3d6-35fe-4230-8ff8-c985f6d39706
-m	java:S106>"+Replace this use of System.out by a logger.(ãˆÚÛ8—ƒ‘ÿ1J$a865385d-68ad-4382-bd30-d88ad625135d
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ƒ‘ÿ1J$91dcea94-db15-44a1-b72b-9ba7509b2d68
+m	java:S106&"+Replace this use of System.out by a logger.(ˆçˆ˜8–ƒ‘ÿ1J$c75286bd-0ea6-433a-a0a0-f8fb968f199d
+m	java:S106<"+Replace this use of System.out by a logger.(Ä¾Àï8—ƒ‘ÿ1J$ee2d2fa4-8c5d-4890-9761-0a24c2ff686f
+m	java:S106>"+Replace this use of System.out by a logger.(ãˆÚÛ8—ƒ‘ÿ1J$c9270237-ab96-4919-9e11-a9edbe64403d
 f
-java:S2119l"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8œƒ‘ÿ1J$7b7d8c5b-f937-4ea2-9b73-b9d9394aa8e2
+java:S2119m"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8œƒ‘ÿ1J$6d8d5324-b690-476a-8716-9f1e16765cf8
 `
-java:S2119x"Save and re-use this "Random".(¼İÅf8ƒ‘ÿ1J$b083d4e7-c694-46f7-8d97-1e5b26ba6067
+java:S2119y"Save and re-use this "Random".(¼İÅf8ƒ‘ÿ1J$333e0d3e-190b-4002-9d1c-7716457014dc
 a
-java:S2119ƒ"Save and re-use this "Random".(¼İÅf8Ÿƒ‘ÿ1J$b1277804-17cb-47ff-a28e-83124f1afdaf
+java:S2119„"Save and re-use this "Random".(¼İÅf8Ÿƒ‘ÿ1J$d4099691-8eef-4c1e-9a4e-8248fe8dd3bc
 Ÿ
-java:S1450"VRemove the "fitness" field and declare it as a local variable in the relevant methods.(µèã úÿÿÿÿ8¢ƒ‘ÿ1J$b3650034-46ef-4ab1-824f-f5f9db254b7b
+java:S1450‘"VRemove the "fitness" field and declare it as a local variable in the relevant methods.(µèã úÿÿÿÿ8¢ƒ‘ÿ1J$951f7b3b-c3dc-46e6-a7e0-b6a1856d2058
 ƒ
-java:S1118§":Add a private constructor to hide the implicit public one.(­¶ãøıÿÿÿÿ8©ƒ‘ÿ1J$1e730ac2-9f84-453c-acc5-74f80defbff2
+java:S1118¨":Add a private constructor to hide the implicit public one.(­¶ãøıÿÿÿÿ8©ƒ‘ÿ1J$afe3944f-d0e1-46b6-8b94-abe92188dde7
 t
-java:S1068"+Remove this unused "fitness" private field.(µèã úÿÿÿÿ8¬ƒ‘ÿ1J$5bad607e-abb8-45b3-a4b1-9cf4e4e09410
+java:S1068‘"+Remove this unused "fitness" private field.(µèã úÿÿÿÿ8¬ƒ‘ÿ1J$abe35bcd-7bd4-4aac-a4c5-48f6393c6743
