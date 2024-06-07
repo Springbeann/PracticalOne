@@ -1,30 +1,20 @@
 
-@	java:S106+"+Replace this use of System.out by a logger.(ÃÖ¤ƒ
-E	java:S1064"+Replace this use of System.out by a logger.(İÑ¯÷ÿÿÿÿÿ
-E	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
-E	java:S106<"+Replace this use of System.out by a logger.(Ò¬©ìúÿÿÿÿ
-E	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
-E	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
-E
-java:S1481H"/Remove this unused "totalScore" local variable.(¹ìº…
-9
-java:S2119^"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
-i	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬µ¦Ãûÿÿÿÿ
-:
-java:S2119…"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
-:
-java:S2119Š"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
-T
-java:S1854’"=Remove this useless assignment to local variable "offspring".(ñ‹Ö
-Q
-java:S1854":Remove this useless assignment to local variable "rndmCh".(´ßÌ
-T
-java:S1854"8Remove this useless assignment to local variable "rand".(šŸ«íøÿÿÿÿ
-:
-java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
-E
-java:S1481")Remove this unused "rand" local variable.(šŸ«íøÿÿÿÿ
-B
-java:S1481"+Remove this unused "rndmCh" local variable.(´ßÌ
-E
-java:S1481’".Remove this unused "offspring" local variable.(ñ‹Ö
+…
+java:S3518f"BMake sure "totalFitness" can't be zero before doing this division.(ğÖÔà8‹ƒ‘ÿ1J$4bacd9e8-f833-4e69-8a13-869a44284f79
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ƒ‘ÿ1J$27baccf4-6916-43f0-b72f-e1780a81adeb
+m	java:S106&"+Replace this use of System.out by a logger.(ˆçˆ˜8–ƒ‘ÿ1J$0bb3665f-0f97-4066-9eba-56ab0c2c6a4e
+m	java:S106<"+Replace this use of System.out by a logger.(Ä¾Àï8—ƒ‘ÿ1J$df2ad3d6-35fe-4230-8ff8-c985f6d39706
+m	java:S106>"+Replace this use of System.out by a logger.(ãˆÚÛ8—ƒ‘ÿ1J$a865385d-68ad-4382-bd30-d88ad625135d
+f
+java:S2119l"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8œƒ‘ÿ1J$7b7d8c5b-f937-4ea2-9b73-b9d9394aa8e2
+`
+java:S2119x"Save and re-use this "Random".(¼İÅf8ƒ‘ÿ1J$b083d4e7-c694-46f7-8d97-1e5b26ba6067
+a
+java:S2119ƒ"Save and re-use this "Random".(¼İÅf8Ÿƒ‘ÿ1J$b1277804-17cb-47ff-a28e-83124f1afdaf
+Ÿ
+java:S1450"VRemove the "fitness" field and declare it as a local variable in the relevant methods.(µèã úÿÿÿÿ8¢ƒ‘ÿ1J$b3650034-46ef-4ab1-824f-f5f9db254b7b
+ƒ
+java:S1118§":Add a private constructor to hide the implicit public one.(­¶ãøıÿÿÿÿ8©ƒ‘ÿ1J$1e730ac2-9f84-453c-acc5-74f80defbff2
+t
+java:S1068"+Remove this unused "fitness" private field.(µèã úÿÿÿÿ8¬ƒ‘ÿ1J$5bad607e-abb8-45b3-a4b1-9cf4e4e09410

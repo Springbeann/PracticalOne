@@ -1,0 +1,17 @@
+
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼ÄÚ
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤À­°ûÿÿÿÿ
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èæ ¥ÿÿÿÿÿ
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ô¡ßÿÿÿÿÿ
+c
+java:S3973."HUse indentation to denote the code conditionally executed by this "for".(÷“¥‰üÿÿÿÿ
+]
+java:S3973D"GUse indentation to denote the code conditionally executed by this "if".(Ò½Éÿ
+b
+java:S3973G"GUse indentation to denote the code conditionally executed by this "if".(£öÅÒþÿÿÿÿ
+U
+java:S1118'":Add a private constructor to hide the implicit public one.(Ýé‰¿úÿÿÿÿ
+E
+java:S1197*"*Move the array designators [] to the type.(†³©·þÿÿÿÿ
+E
+java:S1197="*Move the array designators [] to the type.(èæ ¥ÿÿÿÿÿ
